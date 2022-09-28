@@ -3,5 +3,5 @@
 >Status do projeto: Em desenvolvimento
 
 ```
-install
+node.js
 ```
